@@ -1,0 +1,70 @@
+  221  git remote add origin https://github.com/RonnieRuuz/20230605-RonnieGarcia.git
+  222  git push -u origin main
+  223  git branch -M main
+  224  git push -u origin main
+  225  git remote add origin https://github.com/RonnieRuuz/20230605-RonnieGarcia.git
+  226  git branch -M main
+  227  git push -u origin main
+  228  git commit -m "commit 01 de Ronnie Garcia"
+  229  git remote add origin https://github.com/RonnieRuuz/20230605-RonnieGarcia.git
+  230  git branch -M main
+  231  git remote add origin https://github.com/RonnieRuuz/20230605-RonnieGarcia.git
+  232  git push -u origin main
+  233  git status
+  234  git origin
+  235  git remote add origin main https://github.com/RonnieRuuz/20230605-RonnieGarcia.git
+  236  git remote add https://github.com/RonnieRuuz/20230605-RonnieGarcia.git
+  237  git remote add origin https://github.com/RonnieRuuz/20230605-RonnieGarcia.git
+  238  git push -u origin main
+  239  git commit -m "first commit"
+  240  git branch -M main
+  241  git remote add origin https://github.com/RonnieRuuz/20230605-RonnieGarcia.git
+  242  git push -u origin main
+  243  git status
+  244  git push
+  245  git push origin main
+  246  git remote add origin https://github.com/RonnieRuuz/20230605-RonnieGarcia.git
+  247  touch comandos.txt main.js index.html
+  248  git branch feature
+  249  gi checkout -d "feature"
+  250  git checkout -d "feature"
+  251  git branch "feature"
+  252  git branch feature
+  253  ls
+  254  git status
+  255  git add.
+  256  git add .
+  257  git status
+  258  git commit -m "commit 02 de RonnieGarcia"
+  259  git push origin main
+  260  git branch feature
+  261  git checkout feature
+  262  mkdir  Hardware Software SeguridadInformatica
+  263  ls
+  264  cd Hardware/
+  265  touch resumen.txt
+  266  cd ..
+  267  ls
+  268  cd Software/
+  269  touch resumen.txt
+  270  cd ..
+  271  ls
+  272  cd SeguridadInformatica/
+  273  touch resumen.txt
+  274  cd ..
+  275  git status
+  276  git add .
+  277  git status
+  278  git commit -m "commit 03 de RonnieGarcia"
+  279  git status
+  280  git push origin feature
+  281  git status
+  282  git checkout main
+  283  ls
+  284  mv main.js resumenHardware.txt
+  285  mv index.html resumenSoftware.txt
+  286  ls
+  287  nano resumenSoftware.txt 
+  288  nano resumenHardware.txt 
+  289  ls
+  290  history 70 > comandos.txt 
